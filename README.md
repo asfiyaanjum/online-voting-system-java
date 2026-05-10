@@ -74,3 +74,5 @@ Example:
 ```
 
 Voters can vote only between the start and end time while voting is open. The **Results** tab shows the winner after the end time, or the current leader while voting is still active.
+
+                                                                               © 2026 Asfiya Anjum
